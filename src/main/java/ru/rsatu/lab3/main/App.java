@@ -1,4 +1,4 @@
-package ru.rsatu.lab3;
+package ru.rsatu.lab3.main;
 
 /**
  * Hello world!
